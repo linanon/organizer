@@ -1,0 +1,24 @@
+c – C source file
+cpp – C++ source file
+h – C/C++ header file
+java – Java source file
+cs – C# source file
+py – Python source file
+rb – Ruby source file
+js – JavaScript source file
+ts – TypeScript source file
+php – PHP source file
+swift – Swift source file
+go – Go source file
+rs – Rust source file
+kt – Kotlin source file
+pl – Perl source file
+lua – Lua source file
+sh – Shell script
+bat – Batch file (Windows script)
+ps1 – PowerShell script
+sql – SQL script
+vbs – Visual Basic Script
+r – R source file
+d – D programming language source file
+m – MATLAB source file

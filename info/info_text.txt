@@ -1,0 +1,9 @@
+txt – Plain text file
+md – Markdown file
+rtf – Rich Text Format
+log – Log file
+csv – Comma-Separated Values file (often used for text data)
+tex – LaTeX file
+xml – XML file (can contain structured text data)
+json – JSON file (text-based format for data interchange)
+yaml – YAML file (text-based data serialization format)

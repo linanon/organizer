@@ -1,0 +1,20 @@
+zip - Zip archive file, widely used for compression and bundling files.
+tar - Tarball file, used for combining multiple files into one archive, often used in Unix/Linux environments.
+gz - Gzip compressed file, commonly used with .tar files (e.g., .tar.gz or .tgz).
+bz2 - Bzip2 compressed file, also used with .tar files (e.g., .tar.bz2).
+xz - XZ compressed file, used with .tar files (e.g., .tar.xz).
+7z - 7-Zip compressed file, known for high compression ratios.
+rar - RAR archive file, a proprietary format with its own compression algorithm.
+ace - ACE archive file, used for file compression and archiving.
+arj - ARJ archive file, an older compression format.
+cab - Cabinet file, used by Microsoft for distributing software.
+lz - Lzip compressed file, used in Unix/Linux environments.
+lzh - LZH compressed file, a format popular in Japan.
+z - Compress file, often used in Unix/Linux environments.
+uue - Unix-to-Unix Encoding file, used for encoding binary files into ASCII text.
+hqx - BinHex encoded file, used for encoding binary files for transfer over text-based protocols.
+pax - PAX archive file, an extension to the TAR format for POSIX-compatible archives.
+cpio - CPIO archive file, used in Unix/Linux environments for file archiving.
+tar.gz or .tgz - A tarball compressed with gzip.
+tar.bz2 - A tarball compressed with bzip2.
+tar.xz - A tarball compressed with xz.

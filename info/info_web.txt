@@ -1,0 +1,31 @@
+html - HyperText Markup Language
+htm - HyperText Markup Language
+xhtml - Extensible HyperText Markup Language
+shtml - Server Side Include HTML
+phtml - PHP Hypertext Preprocessor file with HTML
+css - Cascading Style Sheets
+less - Less CSS preprocessor
+sass - Syntactically Awesome Style Sheets
+scss - Sassy CSS, a syntax of Sass
+js - JavaScript
+jsx - JavaScript XML, used with React
+ts - TypeScript
+tsx - TypeScript XML, used with React
+php - PHP: Hypertext Preprocessor
+asp - Active Server Pages
+aspx - ASNET
+cgi - Common Gateway Interface
+pl - Perl scripts, often used for CGI
+xml - Extensible Markup Language
+json - JavaScript Object Notation
+rss - Really Simple Syndication
+atom - Atom Syndication Format
+webmanifest - Web App Manifest
+svg - Scalable Vector Graphics
+ico - Icon file, often used for favicons
+webp - Web Picture format, for images
+ejs - Embedded JavaScript templating
+njk - Nunjucks template files
+handlebars - Handlebarjs templates
+mustache - Mustache templates
+wasm - WebAssembly

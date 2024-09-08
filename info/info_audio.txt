@@ -1,0 +1,12 @@
+    .mp3 – MPEG Layer Audio 3
+    .aac – Advanced Audio Codec
+    .ogg – Ogg Vorbis
+    .wma – Windows Media Audio
+    .flac – Free Lossless Audio Codec
+    .alac – Apple Lossless Audio Codec
+    .opus – Opus audio codec
+    .wav – Waveform Audio File Format
+    .aiff – Audio Interchange File Format
+    .au – Audio file format used in UNIX
+    .m4a – MPEG-4 Audio file (often used for Apple devices)
+    .mid or .midi – Musical Instrument Digital Interface file
