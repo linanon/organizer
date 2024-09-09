@@ -2,9 +2,9 @@ jpg or .jpeg – JPEG image
 png – Portable Network Graphics image
 gif – Graphics Interchange Format image
 bmp – Bitmap image
-tiff or .tif – Tagged Image File Format image
+tiff or tif – Tagged Image File Format image
 webp – WebP image
-heif or .heic – High Efficiency Image File Format image
+heif or heic – High Efficiency Image File Format image
 ico – Icon image
 svg – Scalable Vector Graphics image
 eps – Encapsulated PostScript image
