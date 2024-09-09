@@ -5,9 +5,9 @@ mkv – Matroska video file
 wmv – Windows Media Video file
 flv – Flash Video file
 webm – WebM video file
-mpeg or .mpg – MPEG video file
+mpeg or mpg – MPEG video file
 mts – AVCHD video file
 rmvb – RealMedia Variable Bitrate file
 3gp – 3GPP multimedia file
 ogv – Ogg Video file
-hevc or .h265 – High Efficiency Video Coding file (HEVC)
+hevc or h265 – High Efficiency Video Coding file (HEVC)
