@@ -19,9 +19,17 @@ python3 organize.py <directory>
 #### Replace <directory> with the actual path to the directory you want to organize.
 
 ### Example:
-```
-python3 organize.py /home/user/Downloads
-```
+#### Before:
+    ![alt text](https://github.com/linanon/organizer/blob/main/screenshots/before.jpg)
+#### After:
+    ![alt text](https://github.com/linanon/organizer/blob/main/screenshots/after_Organizer.jpg)
+
+### Note: To deorganize your directory back, you can run Deorganizer.py with the directory to be deorganized back.`
+### Example:
+#### Organizer:
+    ![alt text](https://github.com/linanon/organizer/blob/main/screenshots/after_Organizer.jpg)
+#### Deorganizer:
+    ![alt text](https://github.com/linanon/organizer/blob/main/screenshots/after_Deorganizer.jpg)
 #### Note: The script will create subdirectories within the specified directory to categorize your files.
 
 ## Help
