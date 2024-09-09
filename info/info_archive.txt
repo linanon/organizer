@@ -15,6 +15,6 @@ uue - Unix-to-Unix Encoding file, used for encoding binary files into ASCII text
 hqx - BinHex encoded file, used for encoding binary files for transfer over text-based protocols.
 pax - PAX archive file, an extension to the TAR format for POSIX-compatible archives.
 cpio - CPIO archive file, used in Unix/Linux environments for file archiving.
-tar.gz or .tgz - A tarball compressed with gzip.
+tar.gz or tgz - A tarball compressed with gzip.
 tar.bz2 - A tarball compressed with bzip2.
 tar.xz - A tarball compressed with xz.
