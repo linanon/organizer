@@ -1,6 +1,6 @@
 # Organizer
 
-This Python script sorts your files into categorized folders based on their extensions.
+Organizer sorts your files into categorized folders based on their extensions.
 It scans a directory and sorts your files into predefined folders like archive, image, video, etc. And also, it will organize files within subdirectories (optional).
 
 #### Compatibility
@@ -16,20 +16,20 @@ git clone https://github.com/linanon/organizer.git
 ```
 python3 organize.py <directory>
 ```
-#### Replace <directory> with the actual path to the directory you want to organize.
+#### Note Replace `<directory>` with the actual path to the directory you want to organize.
 
 ### Example:
 #### Before:
-    ![alt text](https://github.com/linanon/organizer/blob/main/screenshots/before.jpg)
+   ![alt text](https://github.com/linanon/organizer/blob/main/screenshots/before.jpg)
 #### After:
-    ![alt text](https://github.com/linanon/organizer/blob/main/screenshots/after_Organizer.jpg)
+   ![alt text](https://github.com/linanon/organizer/blob/main/screenshots/after_Organizer.jpg)
 
-### Note: To deorganize your directory back, you can run Deorganizer.py with the directory to be deorganized back.`
+#### `To deorganize your directory back, you can run Deorganizer.py with the directory to be deorganized back.`
 ### Example:
 #### Organizer:
-    ![alt text](https://github.com/linanon/organizer/blob/main/screenshots/after_Organizer.jpg)
+   ![alt text](https://github.com/linanon/organizer/blob/main/screenshots/after_Organizer.jpg)
 #### Deorganizer:
-    ![alt text](https://github.com/linanon/organizer/blob/main/screenshots/after_Deorganizer.jpg)
+   ![alt text](https://github.com/linanon/organizer/blob/main/screenshots/after_Deorganizer.jpg)
 #### Note: The script will create subdirectories within the specified directory to categorize your files.
 
 ## Help
